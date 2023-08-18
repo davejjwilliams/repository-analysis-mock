@@ -4,7 +4,7 @@ def fact(num):
     return num * fact(num - 1)
 
 def sq(num):
-    return num*num
+    return num ** 2
 
 def even(num):
     return num % 2 == 0
