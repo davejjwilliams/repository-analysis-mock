@@ -6,3 +6,9 @@ def miles_to_km(num):
 
 def in_to_cm(num):
     return num*2.54
+
+def miles_to_yards(num):
+    return num*176
+
+def yards_to_feet(num):
+    return num*30
